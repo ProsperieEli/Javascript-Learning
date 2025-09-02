@@ -1,0 +1,16 @@
+#btnContainer{
+    
+    text-align: center;
+}
+.buttons{
+    padding: auto;
+    color: #3b08c5;
+    background-color: rgb(101, 103, 250);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+#number{
+    text-align: center;
+}
