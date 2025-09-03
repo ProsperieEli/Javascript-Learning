@@ -1,0 +1,11 @@
+.body{
+    text-align: center;
+    padding: 20px;
+}
+.btn{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(9, 65, 46);
+    background-color: aqua;
+    padding-right: 10px;
+}
